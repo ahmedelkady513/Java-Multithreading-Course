@@ -25,5 +25,5 @@ I have successfully completed the [Java Multithreading, Concurrency & Performanc
 ### Lock-Free Algorithms and Data Structures
 - Implementing advanced lock-free algorithms and data structures to improve scalability and performance in concurrent applications.
 
-### Java 21 Virtual Threads (Preview)
-- An introduction to the upcoming virtual threads feature in Java 21, aimed at simplifying concurrent programming in Java.
+### Java 21 Virtual Threads 
+- An introduction to the virtual threads feature in Java 21, aimed at simplifying concurrent programming in Java.
