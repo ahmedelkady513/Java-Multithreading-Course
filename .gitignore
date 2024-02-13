@@ -1,0 +1,12 @@
+
+*.class
+target/classes/war_and_peace.txt
+target/classes/search_words.csv
+target/classes/performance_test_plan_1.jmx
+target/classes/Performance_test_plan.jmx
+target/classes/output_results.txt
+target/classes/output.txt
+.idea/workspace.xml
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
